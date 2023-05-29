@@ -12,3 +12,5 @@
 8. git diff – увидеть разницу между текущим файлом и закоммиченным файлом
 
 > *Добавление фото в marckdown*
+
+![Первое фото](https://sun6-23.userapi.com/s/v1/if1/cjfZXJWtkcvq69VicL_dug1XxJsv127Rrj5zIttyK8aYxS1dGeJfolp_JjcCYTcl_z_anvvL.jpg?size=1105x1105&quality=96&crop=45,0,1105,1105&ava=1)
