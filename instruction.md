@@ -57,3 +57,7 @@
 
 > ![празднование Паоло Дибалаъ](https://s74794.cdn.ngenix.net/m/eafd/6514/2b3c/42a7/a5a0/e552/e43e/da50/1600_1000_max.jpeg)
 
+> ![Победа Севиьи](https://smartgambling.ru/storage/app/media/uploaded-files/sevchmleg.jpg)
+
+
+> ![разочарование Моуриньо](https://cdnn21.img.ria.ru/images/07e7/06/01/1875439889_386:49:2824:1420_1920x0_80_0_0_bdac26c483595a36cec3379de8121fad.jpg)
